@@ -1,0 +1,33 @@
+img{
+    display: block;
+    width: 25%;
+    margin: auto;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+dd{
+    text-align: center;
+}
+
+ul{
+    border: double;
+    text-align: center;
+    list-style: none;
+    padding-left: 0%;
+    width: 50%;
+    margin: auto;
+}
+
+ul li{
+   border: 5px outset;
+   display: inline-block;
+   background-color: white;
+}
